@@ -4,8 +4,6 @@ This repository is intended for the collection and sharing of recipes and genera
 
 The key document for reference is Cookbook_ collection of methods.csv, the "Cookbook", which contains a list of protocols and links to where they can be accessed, including publications (a xlsx version is also provided and can be downloaded).
 
-Other content:
-
 This repository and its content has been compiled as part of Task 1.6. *Development of a data management and analysis framework for linking and comparing omics datasets across diseases* of the programme *FUNCTIONAL GENOMICS AND BIOTECHNOLOGY FOR HEALTH* (2022-2026). See Task_1_6.md for a description of the task.
 
 Please see also the CFGBC web page on Data Governance (http://cfgbc.mf.uni-lj.si/data-governance/) 

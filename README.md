@@ -2,7 +2,7 @@
 
 This repository is intended for the collection and sharing of recipes and general information about methods used within CFGBC.
 
-The key document for reference is Cookbook_ collection of methods.csv, the "Cookbook", which contains a list of protocols and links to where they can be accessed, including publications (a xlsx version is also provided and can be downloads).
+The key document for reference is Cookbook_ collection of methods.csv, the "Cookbook", which contains a list of protocols and links to where they can be accessed, including publications (a xlsx version is also provided and can be downloaded).
 
 Other content:
 

@@ -11,9 +11,9 @@ This repository and its content has been compiled as part of Task 1.6. *Developm
 Please see also the CFGBC web page on Data Governance (http://cfgbc.mf.uni-lj.si/data-governance/) 
 
 Authors:
-John Hancock
-Nejc Nadižar
-Tadeja Rezen
-Damjana Rozman
-Cene Skubic
-Alja Videtič Paska
+- John Hancock
+- Nejc Nadižar
+- Tadeja Rezen
+- Damjana Rozman
+- Cene Skubic
+- Alja Videtič Paska
